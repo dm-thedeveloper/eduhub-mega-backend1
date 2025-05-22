@@ -1,15 +1,3 @@
-# I am still Working on it
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 # 📚 EduHub – Online Learning Platform API
 
 Welcome to **EduHub**, a fully-featured REST API for an online learning platform. This platform enables students to learn from instructors via video courses, interact through messaging, and even earn certificates.
